@@ -3,6 +3,12 @@
 [![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
 ---
 
+## Changes made
+
+1. Declaration of terminator variable
+2. Changed read() return value to double from int
+3. Changed to smart pointer
+
 ## Overview
 
 Simple starter C++ project with:
